@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">InfoTurista4.0</string>
+    <string name="iVPrincipal">iglesia</string>
+    <string name="txt_titulo">Info Turista C.Brochero</string>
+    <string name="Pedir_Remis">Pedir Remis</string>
+    <string name="GPS">GPS</string>
+    <string name="MisViajes">Destinos</string>
+    <string name="Info">Info General</string>
+    <string name="ImgViewBrochero">ImgViewBrochero</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Registrarse">Registrarse</string>
+
+    //String Vista Login
+    <string name="et_email">Ingrese su E-mail</string>
+    <string name="et_pass">Ingrese su Contraseña</string>
+    <string name="et_confirmapass">Confirme su Contraseña</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="btn_Ingresar">Ingresar</string>
+    //Vista reciclerview
+    <string name="bienvenidos">BIENVENIDOS:</string>
+    <string name="txt_bienvenidos">Atravesando el majestuoso camino de las Altas Cumbres llegaremos al Valle de Traslasierra,
+                                    a la rotonda de ingreso a Mina Clavero, y 7 Km hacia el Norte a este tranquilo pueblo que
+                                    recibe miles de visitantes en cada temporada veraniega. llamado Villa Cura Brochero</string>
+</resources>
