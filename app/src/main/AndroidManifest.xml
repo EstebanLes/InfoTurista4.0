@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.InfoTurista40">
+        <activity android:name=".activity_lugar"></activity>
         <activity
             android:name=".adapter.adapterRecycler"
             android:exported="false" />

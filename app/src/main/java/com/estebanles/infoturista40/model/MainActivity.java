@@ -17,9 +17,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void destinos (View view){
-
-        Intent intentMain = new Intent(MainActivity.this, adapterRecycler.class);
-        startActivity(intentMain);
-    }
 }
